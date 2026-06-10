@@ -1,4 +1,50 @@
-## Hi there 👋
+Hi, I'm Ayush Kumar Gupta 👋
+
+🚀 Backend Developer | AI & Machine Learning Enthusiast | Researcher
+
+I am a B.Tech student in Electronics and Computer Science at Bhilai Institute of Technology with a strong interest in Backend Development, Artificial Intelligence, Machine Learning, and System Design.
+
+My experience spans full-stack web development, AI-powered applications, computer vision, natural language processing, and financial technology solutions. I enjoy building scalable systems that solve real-world problems, from AI-driven document assistants and sentiment analysis platforms to fintech and EV infrastructure analytics.
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+Areas of Interest
+Backend Development & System Design
+Artificial Intelligence & Machine Learning
+Deep Learning & Computer Vision
+Natural Language Processing
+Competitive Programming
+FinTech & Sustainable Technology
+Technical Skills
+Languages: C, Python, JavaScript, SQL
+Web Technologies: React, Node.js, Express.js, GraphQL
+Databases: MongoDB, MySQL
+AI/ML: TensorFlow, Scikit-learn, NumPy, Pandas
+DevOps & Tools: Docker, Jenkins, Git
+Achievements
+
+🏆 FinTech Hackathon Winner at IIT Bhilai
+🏆 Ideathon 2025 Winner 
+🏆 HACK-A-SOL WINNER
+10+ HACKATHONS WINNER
+
+Current Focus
+Building AI-powered applications using RAG and LLMs
+Exploring Secure Communication and Post-Quantum Cryptography
+Advancing Competitive Programming and Problem Solving
+
+
+I am passionate about leveraging technology, research, and innovation to create impactful solutions and continuously expand my technical expertise.
 
 <!--
 **Ayushgupta2408/Ayushgupta2408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
