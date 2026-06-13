@@ -1,11 +1,11 @@
 Hi, I'm Ayush Kumar Gupta 👋
 <div align="center">
 
-<h1>Ayush Kumar Gupta</h1>
+# Ayush Kumar Gupta
 
-<h3>Building Scalable Systems & Intelligent AI Solutions</h3>
+### Building Intelligent AI Agents, Scalable Backends & Full-Stack Applications
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+Engineer;Backend+Engineer;Machine+Learning+Engineer;Generative+AI+Developer;MERN+Stack+Developer;System+Design+Enthusiast;Competitive+Programmer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1400&lines=Agentic+AI+Engineer;Multi-Agent+Systems+Developer;LLM+%26+RAG+Engineer;Generative+AI+Developer;Full+Stack+Developer;Backend+Engineer;Machine+Learning+Engineer;Building+Scalable+AI+Products;System+Design+Enthusiast;Competitive+Programmer" />
 
 </div>
 🚀 Backend Developer | AI & Machine Learning Enthusiast | Researcher
