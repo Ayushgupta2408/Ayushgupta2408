@@ -1,7 +1,6 @@
-Hi, I'm Ayush Kumar Gupta 👋
 <div align="center">
 
-# Ayush Kumar Gupta
+#  Hi I'm Ayush Kumar Gupta
 
 ### Building Intelligent AI Agents, Scalable Backends & Full-Stack Applications
 
