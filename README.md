@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1400&lines=Agentic+AI+Engineer;Multi-Agent+Systems+Developer;LLM+%26+RAG+Engineer;Generative+AI+Developer;Full+Stack+Developer;Backend+Engineer;Machine+Learning+Engineer;Building+Scalable+AI+Products;System+Design+Enthusiast;Competitive+Programmer" />
 
 </div>
-🚀 Backend Developer | AI & Machine Learning Enthusiast | Researcher
+ Backend Developer | AI & Machine Learning Enthusiast | Researcher
 
 I am a B.Tech student in Electronics and Computer Science at Bhilai Institute of Technology with a strong interest in Backend Development, Artificial Intelligence, Machine Learning, and System Design.
 
