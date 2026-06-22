@@ -41,6 +41,19 @@ Web Technologies: React, Node.js, Express.js, GraphQL
 Databases: MongoDB, MySQL
 AI/ML: TensorFlow, Scikit-learn, NumPy, Pandas
 DevOps & Tools: Docker, Jenkins, Git
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushgupta2408&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushgupta2408&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushgupta2408&theme=tokyonight" />
+</p>
 Achievements
 
 🏆 FinTech Hackathon Winner at IIT Bhilai
