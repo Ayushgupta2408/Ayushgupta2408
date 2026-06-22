@@ -48,7 +48,7 @@ Achievements
 🏆 HACK-A-SOL WINNER
 10+ HACKATHONS WINNER
 
-Current Focus
+My Current Focus
 Building AI-powered applications using RAG and LLMs
 Exploring Secure Communication and Post-Quantum Cryptography
 Advancing Competitive Programming and Problem Solving
