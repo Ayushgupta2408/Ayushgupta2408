@@ -2,7 +2,7 @@
 
 # Ayush Kumar Gupta
 <p align="center">
-  <img src="./assets/naruto-blink.svg" width="250">
+  <img src="naruto-blink.svg" width="250">
 </p>
 
 ### AI • Backend • Full Stack • System Design
