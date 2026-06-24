@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ayush Kumar Gupta
+#  Hi I'm Ayush Kumar Gupta
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBibTFkdWFmZWt6dWs4anQ4cWR0NGhubjhpZWxhZm9waGpkNmQ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DWaWnqZ5HZVvO/giphy.gif" width="200"/>
   <h2>Welcome to My GitHub Sanctuary!</i></h2>
