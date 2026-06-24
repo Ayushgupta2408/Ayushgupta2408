@@ -5,6 +5,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBibTFkdWFmZWt6dWs4anQ4cWR0NGhubjhpZWxhZm9waGpkNmQ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DWaWnqZ5HZVvO/giphy.gif" width="200"/>
   <h2>Welcome to My GitHub Sanctuary!</i></h2>
   </div>
+  
 ### AI • Backend • Full Stack • System Design
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1600&lines=Agentic+AI+Engineer;Multi-Agent+Systems+Architect;LLM+%26+RAG+Engineer;Building+Production-Ready+AI+Applications;Designing+Scalable+Backend+Systems;Full-Stack+Developer;Turning+Research+Into+Real+Products;System+Design+Enthusiast;Competitive+Programmer;Always+Building+Something+New+⚡" />
