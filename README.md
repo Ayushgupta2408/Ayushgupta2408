@@ -36,8 +36,7 @@ My experience spans full-stack web development, AI-powered applications, compute
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
 </p>
-
-Areas of Interest
+<h2><b>Areas of Interest</b></h2>
 Backend Development & System Design
 Artificial Intelligence & Machine Learning
 Deep Learning & Computer Vision
