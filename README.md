@@ -36,6 +36,7 @@ My experience spans full-stack web development, AI-powered applications, compute
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
 </p>
+
 Areas of Interest
 Backend Development & System Design
 Artificial Intelligence & Machine Learning
@@ -49,6 +50,7 @@ Web Technologies: React, Node.js, Express.js, GraphQL
 Databases: MongoDB, MySQL
 AI/ML: TensorFlow, Scikit-learn, NumPy, Pandas
 DevOps & Tools: Docker, Jenkins, Git
+
 ## 📊 GitHub Stats
 
 <p align="center">
