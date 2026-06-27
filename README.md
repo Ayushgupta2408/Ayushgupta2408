@@ -48,15 +48,14 @@ My experience spans full-stack web development, AI-powered applications, compute
   </a>
 </p>
 <h2><b>Areas of Interest</b></h2>
-## 🚀 Areas of Interest
-
 <table>
 <tr>
+
 <td align="center" width="33%">
 
-<h3>
-<span style="color:#87CEEB;">Full-Stack Development</span>
-</h3>
+<img src="https://img.shields.io/badge/%20Full--Stack%20Development-00BFFF?style=for-the-badge" />
+
+<br><br>
 
 Building scalable, responsive, and high-performance web applications using modern technologies.
 
@@ -64,9 +63,9 @@ Building scalable, responsive, and high-performance web applications using moder
 
 <td align="center" width="33%">
 
-<h3>
-<span style="color:#87CEEB;">System Design</span>
-</h3>
+<img src="https://img.shields.io/badge/%20System%20Design-8A2BE2?style=for-the-badge" />
+
+<br><br>
 
 Designing reliable, distributed, and scalable software architectures for real-world applications.
 
@@ -74,13 +73,14 @@ Designing reliable, distributed, and scalable software architectures for real-wo
 
 <td align="center" width="33%">
 
-<h3>
-<span style="color:#87CEEB;">Machine Learning Engineering</span>
-</h3>
+<img src="https://img.shields.io/badge/%20Machine%20Learning-22C55E?style=for-the-badge" />
 
-Developing intelligent AI solutions using machine learning, deep learning, and data-driven models.
+<br><br>
+
+Developing intelligent AI solutions using machine learning and deep learning.
 
 </td>
+
 </tr>
 </table>
 
