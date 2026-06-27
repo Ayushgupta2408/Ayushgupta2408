@@ -48,25 +48,36 @@ My experience spans full-stack web development, AI-powered applications, compute
   </a>
 </p>
 <h2><b>Areas of Interest</b></h2>
+## 🚀 Areas of Interest
+
 <table>
 <tr>
 <td align="center" width="33%">
 
-### Full-Stack Development
+<h3>
+<span style="color:#4F46E5;">🌐 Full-Stack Development</span>
+</h3>
+
 Building scalable, responsive, and high-performance web applications using modern technologies.
 
 </td>
 
 <td align="center" width="33%">
 
-### System Design
+<h3>
+<span style="color:#06B6D4;">🏗️ System Design</span>
+</h3>
+
 Designing reliable, distributed, and scalable software architectures for real-world applications.
 
 </td>
 
 <td align="center" width="33%">
 
-###  Machine Learning Engineering
+<h3>
+<span style="color:#10B981;">🤖 Machine Learning Engineering</span>
+</h3>
+
 Developing intelligent AI solutions using machine learning, deep learning, and data-driven models.
 
 </td>
