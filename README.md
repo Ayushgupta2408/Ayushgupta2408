@@ -12,8 +12,7 @@
 
 </div>
  
-
-My experience spans full-stack web development, AI-powered applications, computer vision, natural language processing, and financial technology solutions. I enjoy building scalable systems that solve real-world problems, from AI-driven document assistants and sentiment analysis platforms to fintech and EV infrastructure analytics.
+## I specialize in Full-Stack Development, Artificial Intelligence, Computer Vision, Natural Language Processing, and FinTech, building scalable, high-performance solutions that address complex real-world challenges.
 ## 🚀 Tech Stack
 
 <p align="center">
