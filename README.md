@@ -48,18 +48,30 @@ My experience spans full-stack web development, AI-powered applications, compute
   </a>
 </p>
 <h2><b>Areas of Interest</b></h2>
-Backend Development & System Design
-Artificial Intelligence & Machine Learning
-Deep Learning & Computer Vision
-Natural Language Processing
-Competitive Programming
-FinTech & Sustainable Technology
-Technical Skills
-Languages: C, Python, JavaScript, SQL
-Web Technologies: React, Node.js, Express.js, GraphQL
-Databases: MongoDB, MySQL
-AI/ML: TensorFlow, Scikit-learn, NumPy, Pandas
-DevOps & Tools: Docker, Jenkins, Git
+<table>
+<tr>
+<td align="center" width="33%">
+
+### Full-Stack Development
+Building scalable, responsive, and high-performance web applications using modern technologies.
+
+</td>
+
+<td align="center" width="33%">
+
+### System Design
+Designing reliable, distributed, and scalable software architectures for real-world applications.
+
+</td>
+
+<td align="center" width="33%">
+
+###  Machine Learning Engineering
+Developing intelligent AI solutions using machine learning, deep learning, and data-driven models.
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 
