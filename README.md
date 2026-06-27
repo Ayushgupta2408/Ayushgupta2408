@@ -85,20 +85,93 @@ Developing intelligent AI solutions using machine learning, deep learning, and d
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushgupta2408&theme=tokyonight" />
 </p>
-Achievements
+<h1 align="center">🏆 Achievements</h1>
 
-🏆 FinTech Hackathon Winner at IIT Bhilai
-🏆 Ideathon 2025 Winner 
-🏆 HACK-A-SOL WINNER
-10+ HACKATHONS WINNER
+<p align="center">
 
-My Current Focus
-Building AI-powered applications using RAG and LLMs
-Exploring Secure Communication and Post-Quantum Cryptography
-Advancing Competitive Programming and Problem Solving
+<img src="https://img.shields.io/badge/🥇%20FinTech%20Hackathon-Winner-gold?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏆%20IIT%20Bhilai-Champion-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💡%20Ideathon%202025-Winner-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀%20HACK--A--SOL-Champion-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔥%2010%2B-Hackathon%20Wins-orange?style=for-the-badge" />
 
+</p>
 
-I am passionate about leveraging technology, research, and innovation to create impactful solutions and continuously expand my technical expertise.
+---
+
+# 🎯 My Current Focus
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+## 🤖 AI & LLMs
+
+<img src="https://img.shields.io/badge/RAG-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Agents-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector%20DB-red?style=flat-square"/>
+
+Building intelligent AI-powered applications with modern Generative AI technologies.
+
+</td>
+
+<td align="center" width="33%">
+
+## 🔐 Security
+
+<img src="https://img.shields.io/badge/Post--Quantum-Cryptography-blueviolet?style=flat-square"/>
+<img src="https://img.shields.io/badge/Secure-Communication-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cyber-Security-red?style=flat-square"/>
+
+Researching next-generation secure communication systems and cryptographic techniques.
+
+</td>
+
+<td align="center" width="33%">
+
+## 💻 Competitive Programming
+
+<img src="https://img.shields.io/badge/DSA-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/C%2B%2B-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Problem-Solving-success?style=flat-square"/>
+
+Continuously improving algorithmic thinking and participating in coding contests.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<h2 align="center">🌟 My Mission</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/💡-Innovation-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖-Artificial%20Intelligence-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌍-Real%20World%20Impact-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀-Continuous%20Learning-red?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+### ✨ *"Transforming ideas into scalable, intelligent, and impactful technology."*
+
+I am passionate about leveraging **Artificial Intelligence**, **Research**, **Full-Stack Development**, and **Innovation** to solve real-world challenges while continuously expanding my technical expertise.
+
+</p>
+
+---
+
+<h3 align="center">
+
+🌱 Learn Every Day • 🚀 Build Amazing Things • 💙 Share Knowledge
+
+</h3>
 
 <!--
 **Ayushgupta2408/Ayushgupta2408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
