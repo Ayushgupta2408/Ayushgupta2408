@@ -36,6 +36,18 @@ My experience spans full-stack web development, AI-powered applications, compute
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
 </p>
+
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="ag5510362@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ayush-kumar-gupta-259021278/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 <h2><b>Areas of Interest</b></h2>
 Backend Development & System Design
 Artificial Intelligence & Machine Learning
