@@ -40,12 +40,12 @@ My experience spans full-stack web development, AI-powered applications, compute
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="mailto:ag5510362@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="40" height="40"/>
+  <a href="mailto:ag5510362gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ayush-kumar-gupta-259021278/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/>
+
+  <a href="https://www.linkedin.com/in/ayush-kumar-gupta-259021278/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 <h2><b>Areas of Interest</b></h2>
