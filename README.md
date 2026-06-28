@@ -170,7 +170,6 @@ I am passionate about leveraging **Artificial Intelligence**, **Research**, **Fu
 <h3 align="center">
 
 🌱 Learn Every Day • 🚀 Build Amazing Things • 💙 Share Knowledge
-
 </h3>
 
 <!--
