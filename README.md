@@ -100,7 +100,6 @@ Developing intelligent AI solutions using machine learning, deep learning, and d
 <img src="https://img.shields.io/badge/💡%20Ideathon%202025-Winner-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🚀%20HACK--A--SOL-Champion-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🔥%2010%2B-Hackathon%20Wins-orange?style=for-the-badge" />
-
 </p>
 
 ---
