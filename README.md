@@ -6,19 +6,12 @@
 █▀█ █▄█ █ █ █▀ █ █   █▄▀ █ █ █▄█ ▄▀█ █▀█   █▀▀ █ █ █▀█ ▀█▀ ▄▀█
 █▀█  █  █▄█ ▄█ █▀█   █ █ █▄█ █ █ █▀█ █▀▄   █▄█ █▄█ █▀▀  █  █▀█
 ```
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
 </div>
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBibTFkdWFmZWt6dWs4anQ4cWR0NGhubjhpZWxhZm9waGpkNmQ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DWaWnqZ5HZVvO/giphy.gif" width="200"/>
   <h2>Welcome to My GitHub Sanctuary!</i></h2>
   </div>
-  
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-  
+    
 ### AI • Backend • Full Stack • System Design
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1600&lines=Agentic+AI+Engineer;Multi-Agent+Systems+Architect;LLM+%26+RAG+Engineer;Building+Production-Ready+AI+Applications;Designing+Scalable+Backend+Systems;Full-Stack+Developer;Turning+Research+Into+Real+Products;System+Design+Enthusiast;Competitive+Programmer;Always+Building+Something+New+⚡" />
@@ -30,9 +23,7 @@
 </p>
 
 ## I specialize in Full-Stack Development, Artificial Intelligence, Computer Vision, Natural Language Processing, and FinTech, building scalable, high-performance solutions that address complex real-world challenges.
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+
 
 ## 🚀 Tech Stack
 
@@ -55,9 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 ## 📬 Connect with Me
