@@ -24,13 +24,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1600&lines=Agentic+AI+Engineer;Multi-Agent+Systems+Architect;LLM+%26+RAG+Engineer;Building+Production-Ready+AI+Applications;Designing+Scalable+Backend+Systems;Full-Stack+Developer;Turning+Research+Into+Real+Products;System+Design+Enthusiast;Competitive+Programmer;Always+Building+Something+New+⚡" />
 
 </div>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
 ## I specialize in Full-Stack Development, Artificial Intelligence, Computer Vision, Natural Language Processing, and FinTech, building scalable, high-performance solutions that address complex real-world challenges.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
 ## 🚀 Tech Stack
 
 <p align="center">
