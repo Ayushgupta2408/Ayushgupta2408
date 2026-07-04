@@ -16,7 +16,7 @@
 <h2 align="left">Current Projects</h2>
 
 <ul>
-  <li>
+  <li align="left">
     <b>RojgaarSetu</b> - AI-powered MERN employment platform with intelligent job matching and resume analysis.
     <a href="YOUR_REPO_LINK">view</a>
   </li>
