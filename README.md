@@ -13,10 +13,29 @@
   </div>
 
 #### My Current Projects
-- **RojgaarSetu** - AI-powered MERN employment platform connecting job seekers with recruiters through smart job matching, resume analysis, role-based dashboards, and application tracking. [view](https://github.com/Ayushgupta2408/rojgaarsetu.git)
-- **AI RAG PDF** - Multi user RAG app where people can chat collaboratively with multiple PDFs in a shared room  [view](https://github.com/Ayushgupta2408/AI-rag-pdf.git)
-- **Real-Time Voice Translator** - AI-powered speech translation application that converts spoken language into translated speech in real time using speech recognition, neural machine translation, and text-to-speech technologies. [view](https://github.com/Ayushgupta2408/real-time-voice-translator.git)
-- **Wind-Turbine-Power-Curve-Estimation** - Objective of this project is to perform independent analysis of the wind-turbine data and predict the power curve of a wind turbine. [view](https://github.com/Ayushgupta2408/Wind-Turbine-Power-Curve-Estimation.git)
+<h2>🚀 My Current Projects</h2>
+
+<ul>
+  <li>
+    <b>RojgaarSetu</b> - AI-powered MERN employment platform connecting job seekers with recruiters through smart job matching, resume analysis, role-based dashboards, and application tracking.
+    <a href="https://github.com/YourUsername/RojgaarSetu">view</a>
+  </li>
+
+  <li>
+    <b>AI RAG PDF</b> - Multi-user RAG app where people can chat collaboratively with multiple PDFs in a shared room.
+    <a href="https://github.com/YourUsername/AI-RAG-PDF">view</a>
+  </li>
+
+  <li>
+    <b>Real-Time Voice Translator</b> - AI-powered speech translation application that converts spoken language into translated speech in real time using speech recognition, neural machine translation, and text-to-speech technologies.
+    <a href="https://github.com/YourUsername/Real-Time-Voice-Translator">view</a>
+  </li>
+
+  <li>
+    <b>Wind-Turbine-Power-Curve-Estimation</b> - Machine learning project for analyzing wind turbine SCADA data and predicting the power curve using regression models and feature engineering.
+    <a href="https://github.com/YourUsername/Wind-Turbine-Power-Curve-Estimation">view</a>
+  </li>
+</ul>
 ### AI • Backend • Full Stack • System Design
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1600&lines=Agentic+AI+Engineer;Multi-Agent+Systems+Architect;LLM+%26+RAG+Engineer;Building+Production-Ready+AI+Applications;Designing+Scalable+Backend+Systems;Full-Stack+Developer;Turning+Research+Into+Real+Products;System+Design+Enthusiast;Competitive+Programmer;Always+Building+Something+New+⚡" />
