@@ -18,22 +18,22 @@
 <ul>
   <li align="left">
     <b>RojgaarSetu</b> - AI-powered MERN employment platform with intelligent job matching and resume analysis.
-    <a href="YOUR_REPO_LINK">view</a>
+    <a href="https://github.com/Ayushgupta2408/rojgaarsetu.git">view</a>
   </li>
 
-  <li>
+  <li align="left">
     <b>AI RAG PDF</b> - Collaborative RAG application for chatting with multiple PDFs using LLMs.
-    <a href="YOUR_REPO_LINK">view</a>
+    <a href="https://github.com/Ayushgupta2408/AI-rag-pdf.git">view</a>
   </li>
 
-  <li>
+  <li align="left">
     <b>Real-Time Voice Translator</b> - AI application for real-time multilingual speech translation.
-    <a href="YOUR_REPO_LINK">view</a>
+    <a href="https://github.com/Ayushgupta2408/real-time-voice-translator.git">view</a>
   </li>
 
-  <li>
+  <li align="left">
     <b>Wind-Turbine-Power-Curve-Estimation</b> - Machine learning model for wind turbine power curve prediction.
-    <a href="YOUR_REPO_LINK">view</a>
+    <a href="https://github.com/Ayushgupta2408/Wind-Turbine-Power-Curve-Estimation.git">view</a>
   </li>
 </ul>
 ### AI • Backend • Full Stack • System Design
