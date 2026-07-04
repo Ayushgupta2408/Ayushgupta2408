@@ -13,27 +13,27 @@
   </div>
 
 #### My Current Projects
-<h2>🚀 My Current Projects</h2>
+<h2 align="left">Current Projects</h2>
 
 <ul>
   <li>
-    <b>RojgaarSetu</b> - AI-powered MERN employment platform connecting job seekers with recruiters through smart job matching, resume analysis, role-based dashboards, and application tracking.
-    <a href="https://github.com/YourUsername/RojgaarSetu">view</a>
+    <b>RojgaarSetu</b> - AI-powered MERN employment platform with intelligent job matching and resume analysis.
+    <a href="YOUR_REPO_LINK">view</a>
   </li>
 
   <li>
-    <b>AI RAG PDF</b> - Multi-user RAG app where people can chat collaboratively with multiple PDFs in a shared room.
-    <a href="https://github.com/YourUsername/AI-RAG-PDF">view</a>
+    <b>AI RAG PDF</b> - Collaborative RAG application for chatting with multiple PDFs using LLMs.
+    <a href="YOUR_REPO_LINK">view</a>
   </li>
 
   <li>
-    <b>Real-Time Voice Translator</b> - AI-powered speech translation application that converts spoken language into translated speech in real time using speech recognition, neural machine translation, and text-to-speech technologies.
-    <a href="https://github.com/YourUsername/Real-Time-Voice-Translator">view</a>
+    <b>Real-Time Voice Translator</b> - AI application for real-time multilingual speech translation.
+    <a href="YOUR_REPO_LINK">view</a>
   </li>
 
   <li>
-    <b>Wind-Turbine-Power-Curve-Estimation</b> - Machine learning project for analyzing wind turbine SCADA data and predicting the power curve using regression models and feature engineering.
-    <a href="https://github.com/YourUsername/Wind-Turbine-Power-Curve-Estimation">view</a>
+    <b>Wind-Turbine-Power-Curve-Estimation</b> - Machine learning model for wind turbine power curve prediction.
+    <a href="YOUR_REPO_LINK">view</a>
   </li>
 </ul>
 ### AI • Backend • Full Stack • System Design
