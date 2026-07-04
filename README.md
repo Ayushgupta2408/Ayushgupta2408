@@ -12,7 +12,6 @@
   <h2>Welcome to My GitHub Sanctuary!</i></h2>
   </div>
 
-#### My Current Projects
 <h2 align="left">Current Projects</h2>
 
 <ul>
@@ -36,6 +35,7 @@
     <a href="https://github.com/Ayushgupta2408/Wind-Turbine-Power-Curve-Estimation.git">view</a>
   </li>
 </ul>
+
 ### AI • Backend • Full Stack • System Design
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1600&lines=Agentic+AI+Engineer;Multi-Agent+Systems+Architect;LLM+%26+RAG+Engineer;Building+Production-Ready+AI+Applications;Designing+Scalable+Backend+Systems;Full-Stack+Developer;Turning+Research+Into+Real+Products;System+Design+Enthusiast;Competitive+Programmer;Always+Building+Something+New+⚡" />
