@@ -16,8 +16,8 @@
 
 <ul>
   <li align="left">
-    <b>RojgaarSetu</b> - AI-powered MERN employment platform with intelligent job matching and resume analysis.
-    <a href="https://github.com/Ayushgupta2408/rojgaarsetu.git">view</a>
+    <b>Omniagent</b> - Omniagent is a local AI agent that automates tasks as a Agent
+    <a href="https://github.com/Ayushgupta2408/Omniagent.git">view</a>
   </li>
 
   <li align="left">
@@ -34,9 +34,14 @@
     <b>Wind-Turbine-Power-Curve-Estimation</b> - Machine learning model for wind turbine power curve prediction.
     <a href="https://github.com/Ayushgupta2408/Wind-Turbine-Power-Curve-Estimation.git">view</a>
   </li>
+
+  <li align="left">
+    <b>RojgaarSetu</b> - AI-powered MERN employment platform with intelligent job matching and resume analysis.
+    <a href="https://github.com/Ayushgupta2408/rojgaarsetu.git">view</a>
+  </li>
 </ul>
 
-### AI • Backend • Full Stack • System Design
+###  AI • Backend • Full Stack • System Design
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1600&lines=Agentic+AI+Engineer;Multi-Agent+Systems+Architect;LLM+%26+RAG+Engineer;Building+Production-Ready+AI+Applications;Designing+Scalable+Backend+Systems;Full-Stack+Developer;Turning+Research+Into+Real+Products;System+Design+Enthusiast;Competitive+Programmer;Always+Building+Something+New+⚡" />
 
