@@ -51,9 +51,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## I specialize in Full-Stack Development, Artificial Intelligence, Computer Vision, Natural Language Processing, and FinTech, building scalable, high-performance solutions that address complex real-world challenges.
-
-
 ## 🚀 Tech Stack
 
 <p align="center">
