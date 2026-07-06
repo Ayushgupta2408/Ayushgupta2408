@@ -117,21 +117,6 @@ Developing intelligent AI solutions using machine learning, deep learning, and d
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayushgupta2408&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Ayushgupta2408&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushgupta2408&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Ayushgupta2408&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
 <h1 align="center">🏆 Achievements</h1>
 
 <p align="center">
