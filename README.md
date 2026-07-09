@@ -12,7 +12,7 @@
   <h2>Welcome to My GitHub Sanctuary!</i></h2>
   </div>
 
-<h2 align="left">Current Projects</h2>
+<h2 align="left">Current Projects ⭐ Please consider giving it a Star ⭐ </h2>
 
 <ul>
   <li align="left">
