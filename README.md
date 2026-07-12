@@ -24,6 +24,10 @@
     <a href="https://github.com/Ayushgupta2408/Omniagent.git">view</a>
   </li>
   <li align="left">
+    <b>Spec/Agent</b> -It converts a product idea into a complete technical specification in seconds
+    <a href="https://github.com/Ayushgupta2408/AI_PM_AGENT.git">view</a>
+  </li>
+  <li align="left">
     <b>AI RAG PDF</b> - Collaborative RAG application for chatting with multiple PDFs using LLMs.
     <a href="https://github.com/Ayushgupta2408/AI-rag-pdf.git">view</a>
   </li>
