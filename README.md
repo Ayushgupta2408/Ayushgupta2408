@@ -16,6 +16,10 @@
 
 <ul>
   <li align="left">
+    <b>Brain</b> -Multi-Agent AI Platform handled by five cooperating agents
+    <a href="https://github.com/Ayushgupta2408/Brain.git">view</a>
+  </li>
+  <li align="left">
     <b>Research Mind</b>- ResearchMind automates the research workflow through collaborative AI agents.
     <a href="https://github.com/Ayushgupta2408/research-mind.git">view</a>
   </li>
