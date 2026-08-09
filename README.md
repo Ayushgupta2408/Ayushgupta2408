@@ -123,9 +123,10 @@ Developing intelligent AI solutions using machine learning, deep learning, and d
 </table>
 
 ## 📊 GitHub Stats
- <p align="center">
-  <img src="https://YOUR-STATS-APP.vercel.app/api?username=Ayushgupta2408&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="./profile-stats.svg" alt="GitHub Stats" />
 </p>
+
 
 
 <h1 align="center">🏆 Achievements</h1>
