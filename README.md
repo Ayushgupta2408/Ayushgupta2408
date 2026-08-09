@@ -131,8 +131,6 @@ Developing intelligent AI solutions using machine learning, deep learning, and d
 
 <img src="https://img.shields.io/github/stars/Ayushgupta2408?style=for-the-badge&logo=github&label=Stars" />
 
-<img src="https://img.shields.io/github/commit-activity/y/Ayushgupta2408?style=for-the-badge&logo=github&label=Commits" />
-
 <img src="https://img.shields.io/github/created-at/Ayushgupta2408/Ayushgupta2408?style=for-the-badge&logo=github&label=Profile%20Repo" />
 
 </p>
