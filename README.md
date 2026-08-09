@@ -124,7 +124,8 @@ Developing intelligent AI solutions using machine learning, deep learning, and d
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="./profile-stats.svg" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/1-repos-per-language.svg" width="49%">
+  <img src="./profile-summary-card-output/4-productive-time.svg" width="49%">
 </p>
 
 
