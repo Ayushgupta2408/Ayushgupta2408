@@ -123,9 +123,18 @@ Developing intelligent AI solutions using machine learning, deep learning, and d
 </table>
 
 ## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="./profile-summary-card-output/3-stats.svg" width="49%">
-  <img src="./profile-summary-card-output/2-most-commit-language.svg" width="49%">
+
+<img src="https://img.shields.io/github/followers/Ayushgupta2408?style=for-the-badge&logo=github&label=Followers" />
+
+<img src="https://img.shields.io/github/stars/Ayushgupta2408?style=for-the-badge&logo=github&label=Stars" />
+
+<img src="https://img.shields.io/github/commit-activity/y/Ayushgupta2408?style=for-the-badge&logo=github&label=Commits" />
+
+<img src="https://img.shields.io/github/created-at/Ayushgupta2408/Ayushgupta2408?style=for-the-badge&logo=github&label=Profile%20Repo" />
+
 </p>
 
 
