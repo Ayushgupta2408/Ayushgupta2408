@@ -126,13 +126,29 @@ Developing intelligent AI solutions using machine learning, deep learning, and d
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
+  <img src="https://img.shields.io/github/followers/Ayushgupta2408?style=for-the-badge&logo=github&label=Followers&color=0D1117&logoColor=00F0FF" />
+  <img src="https://img.shields.io/github/stars/Ayushgupta2408?style=for-the-badge&logo=github&label=Stars&color=0D1117&logoColor=00F0FF" />
+  <img src="https://img.shields.io/github/created-at/Ayushgupta2408/Ayushgupta2408?style=for-the-badge&logo=github&label=Profile%20Repo&color=0D1117&logoColor=00F0FF" />
+</p>
 
-<img src="https://img.shields.io/github/followers/Ayushgupta2408?style=for-the-badge&logo=github&label=Followers" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushgupta2408&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushgupta2408&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF6B6B&currStreakLabel=00F0FF" width="49%" />
+</p>
 
-<img src="https://img.shields.io/github/stars/Ayushgupta2408?style=for-the-badge&logo=github&label=Stars" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushgupta2408&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" width="40%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayushgupta2408&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" width="55%" />
+</p>
 
-<img src="https://img.shields.io/github/created-at/Ayushgupta2408/Ayushgupta2408?style=for-the-badge&logo=github&label=Profile%20Repo" />
+<h3 align="center">📈 Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushgupta2408&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FF6B6B" width="95%" />
+</p>
 
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayushgupta2408/Ayushgupta2408/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </p>
 
 
