@@ -28,7 +28,7 @@
     <a href="https://github.com/Ayushgupta2408/AI_PM_AGENT.git">view</a>
   </li>
   <li align="left">
-    <b>Regopd</b> - Collaborative RAG application for chatting with multiple PDFs using LLMs.
+    <b>Marginal</b> - Collaborative RAG application for chatting with multiple PDFs using LLMs.
     <a href="https://github.com/Ayushgupta2408/regopd">view</a>
   </li>
 
