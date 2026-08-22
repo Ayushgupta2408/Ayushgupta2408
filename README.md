@@ -23,17 +23,13 @@
     <b>Research Mind</b>- ResearchMind automates the research workflow through collaborative AI agents.
     <a href="https://github.com/Ayushgupta2408/research-mind.git">view</a>
   </li>
- <li align="left">
-    <b>Omniagent</b> - Omniagent is a local AI agent that automates tasks as a Agent
-    <a href="https://github.com/Ayushgupta2408/Omniagent.git">view</a>
-  </li>
   <li align="left">
     <b>Spec/Agent</b> -It converts a product idea into a complete technical specification in seconds
     <a href="https://github.com/Ayushgupta2408/AI_PM_AGENT.git">view</a>
   </li>
   <li align="left">
-    <b>AI RAG PDF</b> - Collaborative RAG application for chatting with multiple PDFs using LLMs.
-    <a href="https://github.com/Ayushgupta2408/AI-rag-pdf.git">view</a>
+    <b>Regopd</b> - Collaborative RAG application for chatting with multiple PDFs using LLMs.
+    <a href="https://github.com/Ayushgupta2408/regopd">view</a>
   </li>
 
   <li align="left">
