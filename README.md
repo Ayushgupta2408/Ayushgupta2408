@@ -127,11 +127,6 @@ Developing intelligent AI solutions using machine learning, deep learning, and d
   <img src="https://img.shields.io/github/created-at/Ayushgupta2408/Ayushgupta2408?style=for-the-badge&logo=github&label=Profile%20Repo&color=0D1117&logoColor=00F0FF" />
 </p>
 
-<h3 align="center">📈 Contribution Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushgupta2408&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FF6B6B" width="95%" />
-</p>
-
 <h1 align="center">🏆 Achievements</h1>
 
 <p align="center">
