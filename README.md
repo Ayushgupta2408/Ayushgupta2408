@@ -82,33 +82,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
 </p>
-<h2><b>Areas of Interest</b></h2>
-<table>
-<tr>
-<td align="center" width="33%">
-
-
-### Full-Stack Development
-Building scalable, responsive, and high-performance web applications using modern technologies.
-
-</td>
-
-<td align="center" width="33%">
-
-### System Design
-Designing reliable, distributed, and scalable software architectures for real-world applications.
-
-</td>
-
-<td align="center" width="33%">
-
-### Machine Learning Engineering
-Developing intelligent AI solutions using machine learning, deep learning, and data-driven models.
-
-</td>
-</tr>
-</table>
-
 ## 📊 GitHub Stats
 <h2 align="center">📊 GitHub Stats</h2>
 
