@@ -1,15 +1,7 @@
-<div align="center">
 
 <div align="center">
-  
-```text 
-█▀█ █▄█ █ █ █▀ █ █   █▄▀ █ █ █▄█ ▄▀█ █▀█   █▀▀ █ █ █▀█ ▀█▀ ▄▀█
-█▀█  █  █▄█ ▄█ █▀█   █ █ █▄█ █ █ █▀█ █▀▄   █▄█ █▄█ █▀▀  █  █▀█
-``` 
-</div>
-<div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBibTFkdWFmZWt6dWs4anQ4cWR0NGhubjhpZWxhZm9waGpkNmQ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DWaWnqZ5HZVvO/giphy.gif" width="200"/>
-  <h2>Welcome to My GitHub Sanctuary!</i></h2>
+  <h2>Hey, I'm Ayush!</i></h2>
   </div>
 
 <h2 align="left">Current Projects ⭐ Please consider giving it a Star ⭐ </h2>
