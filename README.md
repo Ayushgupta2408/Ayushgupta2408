@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h2>Hey, I'm Ayush!</i></h2>
+  <h2>Hey, I'm Ayush!</i></h2> 
   </div>
 
 <h2 align="left">Current Projects ⭐ Please consider giving it a Star ⭐ </h2>
